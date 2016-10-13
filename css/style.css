@@ -30,6 +30,10 @@ body {
 }
 
 /* BUTTONS */
+.btn-success-outline{
+    color: greenyellow;
+    font-weight: bold;
+}
 
 .btn-lg,
 .btn-success-outline {
