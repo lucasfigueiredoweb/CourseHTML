@@ -4,6 +4,7 @@ body {
     font-size: 16px;
     font-family: 'Cubano-Regular';
     background: url('../img/pattern.jpg') center center;
+    position: relative;
 }
 
 /* SECTION COVER */
@@ -127,11 +128,12 @@ body {
     background-color: rgba(19, 128, 36, 0.9); 
 }
 
-.h2-feature,
+.heading,
 .under-heading{
     text-align: center;
     
 }
+
 
 
 /*  FONT FACES */
